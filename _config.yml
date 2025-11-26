@@ -2,22 +2,22 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-[cite_start]title: Krishnadev Pandey # [cite: 23]
+title: Krishnadev Pandey
 first_name: Krishnadev
 middle_name:
 last_name: Pandey
-[cite_start]email: krishnadevpandey417@gmail.com # [cite: 26]
+email: krishnadevpandey417@gmail.com
 contact_note: >
   You can contact me via email or LinkedIn.
 
 description: >
-  Senior Undergraduate in Materials and Metallurgical Engineering at MANIT Bhopal. # [cite: 24, 27]
-  Interested in Piezoelectric Materials, Semiconductor Technology, and Nanoscience. # [cite: 32]
+  Senior Undergraduate in Materials and Metallurgical Engineering at MANIT Bhopal.
+  Interested in Piezoelectric Materials, Semiconductor Technology, and Nanoscience.
 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-[cite_start]keywords: materials science, metallurgy, piezoelectric, semiconductor, MANIT Bhopal # [cite: 32, 27]
+keywords: materials science, metallurgy, piezoelectric, semiconductor, MANIT Bhopal
 lang: en
 icon: ⚛️
 
